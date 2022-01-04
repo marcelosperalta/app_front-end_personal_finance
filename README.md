@@ -18,9 +18,9 @@ A personal finance application for daily control of incomes and expenses.
 
 ## Screenshots:
 
-![desktop 01](app_desktop_screenshot_01.png)
+![desktop 01](./.github/app_desktop_screenshot_01.png)
 
-![desktop 02](app_desktop_screenshot_02.png)
+![desktop 02](./.github/app_desktop_screenshot_02.png)
 
 ## Run the project
 
