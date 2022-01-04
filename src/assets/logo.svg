@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="325"
+   height="40"
+   viewBox="0 0 325 40"
+   fill="none"
+   version="1.1"
+   id="svg67"
+   sodipodi:docname="logo_personal_finance.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview69"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:lockguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:zoom="2.82709"
+     inkscape:cx="213.11667"
+     inkscape:cy="14.679406"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg67"
+     width="174px" />
+  <path
+     d="M 36.1422,5.85781 C 32.3647,2.08031 27.3422,0 22,0 16.6578,0 11.63531,2.08031 7.85781,5.85781 4.08031,9.63531 2,14.6578 2,20 2,25.3422 4.08039,30.3646 7.85781,34.1422 11.63523,37.9198 16.6578,40 22,40 27.3422,40 32.3647,37.9197 36.1422,34.1422 39.9197,30.3647 42,25.3422 42,20 42,14.6578 39.9196,9.63539 36.1422,5.85781 Z"
+     fill="#33cc95"
+     id="path54" />
+  <g
+     clip-path="url(#clip0)"
+     id="g60"
+     transform="translate(2)">
+    <path
+       d="M 20.5714,8 V 33.1429"
+       stroke="#ffffff"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path56" />
+    <path
+       d="m 26.2857,12.5714 h -8.5714 c -1.0609,0 -2.0783,0.4215 -2.8284,1.1716 -0.7502,0.7501 -1.1716,1.7676 -1.1716,2.8284 0,1.0609 0.4214,2.0783 1.1716,2.8285 0.7501,0.7501 1.7675,1.1715 2.8284,1.1715 h 5.7143 c 1.0608,0 2.0783,0.4215 2.8284,1.1716 0.7502,0.7502 1.1716,1.7676 1.1716,2.8284 0,1.0609 -0.4214,2.0783 -1.1716,2.8285 -0.7501,0.7501 -1.7676,1.1715 -2.8284,1.1715 h -9.7143"
+       stroke="#ffffff"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path58" />
+  </g>
+  <defs
+     id="defs65">
+    <clipPath
+       id="clip0">
+      <rect
+         width="27.4286"
+         height="27.4286"
+         fill="#ffffff"
+         transform="translate(6.85715,6.85714)"
+         id="rect62"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="-36.377197"
+     y="-19.325386"
+     id="text23617"><tspan
+       sodipodi:role="line"
+       id="tspan23615"
+       x="-36.377197"
+       y="-19.325386"
+       style="font-size:8px" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:4.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print Bold';fill:#ffffff;fill-opacity:1;stroke:none"
+     x="53.415558"
+     y="32.195736"
+     id="text29117"><tspan
+       sodipodi:role="line"
+       id="tspan29115"
+       x="53.415558"
+       y="32.195736">Personal Finance</tspan></text>
+</svg>
