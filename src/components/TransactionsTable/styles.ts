@@ -35,4 +35,55 @@ export const Container = styled.div`
             }
         }
     }
+
+    @media (max-width: 600px) {
+        margin-top: 2rem;
+
+        table {
+            thead {
+                display: none;
+            }
+
+            tbody {
+                display: grid;
+                grid-template-columns: 1fr;
+                grid-gap: 1rem;
+
+                td {
+                    padding: .5rem 2rem;
+                }
+
+                td:first-child {
+                    grid-area: description;
+
+                    font-weight: bold;
+                }
+                td.deposit,
+                td.withdraw  {
+                    grid-area: deposit;
+
+                    padding: 0 0 .5rem 2rem;
+
+                    font-size: 1.5rem;
+                }
+                td.category {
+                    grid-area: category;
+                }
+                td.date {
+                    grid-area: date;
+                }
+
+                tr {
+                    display: grid;
+                    grid-template-columns: 1fr;
+                    grid-template-rows: auto;
+                    grid-template-areas:
+                        "description description"
+                        "deposit deposit"
+                        "category date";
+                }
+            }
+        }
+
+    }
 `

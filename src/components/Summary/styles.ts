@@ -9,7 +9,7 @@ export const Container = styled.div`
     div {
         background: var(--shape);
         padding: 1.5rem 2rem;
-        border-radius: 0%.25rem;
+        border-radius: 0.25rem;
         color: var(--text-title);
 
         header {
@@ -30,5 +30,9 @@ export const Container = styled.div`
             background: var(--green);
             color: #FFF;
         }
+    }
+
+    @media (max-width: 600px) {
+        overflow: scroll;
     }
 `;

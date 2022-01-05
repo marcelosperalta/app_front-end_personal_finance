@@ -31,11 +31,11 @@ export function TransactionsTable(){
                                 }).format(transaction.amount)}
                             </td>
 
-                            <td>
+                            <td className="category">
                                 {transaction.category}
                             </td>
 
-                            <td>
+                            <td className="date">
                                 {new Intl.DateTimeFormat("de").format(
                                     new Date(transaction.createdAt)
                                 )}
