@@ -2,7 +2,13 @@
 
 A personal finance application for daily control of incomes and expenses.
 
-## Technologies and tools:
+## Table of Contents
+
+- [Technologies and tools](https://github.com/marcelosperalta/app_front-end_personal_finance#technologies-and-tools)
+- [Screenshots](https://github.com/marcelosperalta/app_front-end_personal_finance#screenshots)
+- [Run the project](https://github.com/marcelosperalta/app_front-end_personal_finance#run-the-project)
+
+## Technologies and tools
 
 - HTML
 - CSS
@@ -16,7 +22,7 @@ A personal finance application for daily control of incomes and expenses.
 - [Mirage JS](https://miragejs.com/)
 - [Axios](https://axios-http.com/)
 
-## Screenshots:
+## Screenshots
 
 ![desktop 01](./.github/app_desktop_screenshot_01.png)
 
