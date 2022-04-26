@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ansi-regex": "^6.0.1",
     "axios": "^0.24.0",
     "miragejs": "^0.1.43",
     "polished": "^4.1.3",
